@@ -16,3 +16,16 @@ learning how to use markdown language for decoration
 
 ~~Programmer~~
 
+## Skills
+
+* Frontend Developer
+* Graphic Design
+* Ui/Ux designer
+* Gamer 
+
+### Martket List 
+1. Potato
+2. Maggi
+3. Pepper
+4. Soda Cracker
+

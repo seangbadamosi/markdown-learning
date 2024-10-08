@@ -29,3 +29,6 @@ learning how to use markdown language for decoration
 3. Pepper
 4. Soda Cracker
 
+# Here is the link to my GitHub [profile](https://github.com/Seangbadamosi)
+
+My Picture ![architecture](/archietchture%201.png)
